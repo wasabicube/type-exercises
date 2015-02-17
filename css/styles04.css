@@ -1,0 +1,34 @@
+h1,
+h2,
+h3 {
+	color: #46595A;}
+
+h1 {
+	font-size: 1.8em;
+}
+h2 {
+	font-size: 1.4em;
+}
+h3 { 
+	font-size: 1em;
+}
+p { 
+	color: #8293A9;
+}
+header time,
+header p {
+	font-size: 0.8em;
+}
+figure {
+	font-size: 0.8em;
+}
+figcaption {
+	color: #572D3A;
+}
+a,
+a:visited {
+	color: #8293A9;
+}
+a:hover {
+	color: #572D3A;
+}
