@@ -13,7 +13,7 @@ h3 {
 	font-size: 1em;
 }
 p { 
-	color: #8293A9;
+	color: #626F80;
 }
 header time,
 header p {
@@ -26,9 +26,12 @@ figcaption {
 	color: #572D3A;
 }
 a,
+a:link,
 a:visited {
-	color: #8293A9;
+	color: #46595A;
+	text-transform: none;
 }
 a:hover {
 	color: #572D3A;
+	text-transform: underline;
 }

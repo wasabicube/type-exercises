@@ -16,10 +16,10 @@ figcaption {
 	font-family: Helvetica;
 	font-weight: 400;
 	font-size: 0.76em;
-	margin: 0 0.5em 0.75em 0.5em;
+	margin: 0.25em 0.5em 0.75em 0.5em;
 }
 figure {
-	border: 1px solid #ddd;
+	border: 1px solid #414954;
 	margin-bottom: 1em;
-	background: #46595A;
+	background: #414954;
 }
